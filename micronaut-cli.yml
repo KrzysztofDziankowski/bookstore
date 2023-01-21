@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.sample.bookstore
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, gradle, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, logback, mariadb, micronaut-build, netty-server, readme, shade, test-resources, yaml]
